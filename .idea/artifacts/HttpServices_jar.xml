@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HttpServices:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HttpServices_jar</output-path>
+    <root id="archive" name="HttpServices.jar">
+      <element id="module-output" name="HttpServices" />
+    </root>
+  </artifact>
+</component>
